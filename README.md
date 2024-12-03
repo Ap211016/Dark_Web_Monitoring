@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Anshuman Patel</h1>
-<h5 align="center">Passionate about Cyber Security | Focused on Continuous Learning | Committed to Contributing to Organizational Success & Security | From India</h5>
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="http://www.linkedin.com/in/anshumanptl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/anshumanptl" height="30" width="40" /></a>
-</p>
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Dark Web Scraping and Keyword Monitoring with Tor
