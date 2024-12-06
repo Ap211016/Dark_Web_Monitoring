@@ -18,17 +18,7 @@ from collections import defaultdict
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # List of keywords to monitor
-KEYWORDS = [
-    "BHAVYA",  
-    "Bihar",
-    "medixcel",
-    "bihar digital health",
-    "plus91",
-    "Ayushman Bharat Health",
-    "ABHA",
-    "Hospital",
-    "Health"
-]   
+KEYWORDS = [ ]   
 
 # Global dictionary to track keyword counts
 keyword_counts = defaultdict(int)
